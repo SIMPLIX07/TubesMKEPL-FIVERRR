@@ -3,8 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Informasi Proyek -->
-    <groupId>TubesFreelance2</groupId>
-    <artifactId>TubesFreelance2</artifactId>
+    <groupId>tubesfreelance2</groupId>
+    <artifactId>tubesfreelance2</artifactId>
     <version>1.0.1</version>
     <packaging>jar</packaging>
 
