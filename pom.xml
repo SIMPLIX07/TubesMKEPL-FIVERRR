@@ -4,8 +4,8 @@
 
     <!-- Informasi Proyek -->
     <groupId>TubesFreelance2</groupId>
-    <artifactId>TubesFreelancer2</artifactId>
-    <version>1.0.0</version>
+    <artifactId>TubesFreelance2</artifactId>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <!-- Properti build untuk konfigurasi sumber dan versi compiler -->
