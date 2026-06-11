@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Informasi Proyek -->
-    <groupId>com.mycompany</groupId>
+    <groupId>TubesFreelance2</groupId>
     <artifactId>TubesFreelance2</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
