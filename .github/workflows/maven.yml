@@ -29,5 +29,4 @@ jobs:
         cache: maven
 
     - name: Build with Maven
-      working-directory: TubesFreelance
-      run: mvn -B package
+      run: mvn -B package --file pom.xml
