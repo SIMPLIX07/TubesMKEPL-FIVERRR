@@ -5,9 +5,8 @@
     <!-- Informasi Proyek -->
     <groupId>com.mycompany</groupId>
     <artifactId>TubesFreelance2</artifactId>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>TubesFreelance2</name>
 
     <!-- Properti build untuk konfigurasi sumber dan versi compiler -->
     <properties>
