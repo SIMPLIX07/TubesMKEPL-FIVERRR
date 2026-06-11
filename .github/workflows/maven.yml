@@ -45,9 +45,8 @@ jobs:
         run: mvn -B verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=simplix07 -Dsonar.projectKey=SIMPLIX07_TubesMKEPL-FIVERRR
  
       - name: Publish to GitHub Packages Apache Maven
+        run: mvn deploy -s $GITHUB_WORKSPACE/settings.xml
         env:
-          MAVEN_USERNAME: simplix07
-          MAVEN_PASSWORD: ${{ secrets.ACC_GITHUB_TOKEN }}
-        run: mvn -B -s $GITHUB_WORKSPACE/settings.xml deploy -X
+          GITHUB_TOKEN: ${{ secrets.ACC_GITHUB_TOKEN }}
 
     
