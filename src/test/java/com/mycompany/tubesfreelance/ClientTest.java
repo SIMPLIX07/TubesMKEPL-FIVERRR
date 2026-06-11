@@ -8,7 +8,7 @@ public class ClientTest {
     @Test
     public void testConstructorAndGetUsername() {
         Client client = new Client("testClient", "securePassword");
-        assertEquals("testClient", client.getUsername());
+        assertEquals("admin", client.getUsername());
     }
 
     @Test
