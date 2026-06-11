@@ -15,7 +15,7 @@
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>com.mycompany.tubesfreelance.TubesFreelance</exec.mainClass>
         <!-- Tambahan Properti SonarCloud -->
-        <sonar.organization>hydenn11</sonar.organization>
+        <sonar.organization>SIMPLIX07</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     
@@ -39,7 +39,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/hydenn11/TubesMKEPL-FIVERRR</url>
+            <url>https://maven.pkg.github.com/SIMPLIX07/TubesMKEPL-FIVERRR</url>
         </repository>
     </distributionManagement>
 </project>

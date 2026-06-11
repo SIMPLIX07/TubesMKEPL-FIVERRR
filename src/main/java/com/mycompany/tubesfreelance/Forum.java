@@ -19,6 +19,8 @@ public class Forum {
         percakapan = new ArrayList<>();
         from = new ArrayList<>();
     }
+    
+    // Getter dan Setter untuk percakapan dan from
 
     public ArrayList<String> getPercakapan(){
             return percakapan;
