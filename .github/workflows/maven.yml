@@ -22,6 +22,8 @@ jobs:
       with:
         java-version: '23'
         distribution: 'temurin'
+        server-id: github
+        settings-path: ${{ github.workspace }} 
         cache: maven
 
     - name: Build with Maven
