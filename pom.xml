@@ -3,11 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Informasi Proyek -->
-    <groupId>com.mycompany</groupId>
-    <artifactId>tubesfreelance12</artifactId>
-    <version>1.0</version>
+    <groupId>tubesfreelance2</groupId>
+    <artifactId>tubesfreelance2</artifactId>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
-    <name>TubesFreelance2</name>
 
     <!-- Properti build untuk konfigurasi sumber dan versi compiler -->
     <properties>
