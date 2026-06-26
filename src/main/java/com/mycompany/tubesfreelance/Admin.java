@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Class Admin untuk mengelola pengguna dan pengumuman.
  */
-public class Admin implements User {
+public class Admin implements User 
     private String Id;
     private String username;
     private String password;
