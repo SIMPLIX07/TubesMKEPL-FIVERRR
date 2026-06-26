@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Client implements User {
+public class Client implements User 
     private String username;
     private String password;
     private double saldo = 1000000.0;
