@@ -5,7 +5,7 @@
     <!-- Informasi Proyek -->
     <groupId>tubesfreelance2</groupId>
     <artifactId>tubesfreelance2</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>jar</packaging>
 
     <!-- Properti build untuk konfigurasi sumber dan versi compiler -->
