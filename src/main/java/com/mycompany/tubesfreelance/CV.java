@@ -41,4 +41,6 @@ public class CV {
     public String toString() {
         return "CV{" + "nama=" + nama + ", keahlian=" + keahlian + ", pengalaman=" + pengalaman + '}';
     }
+
+    // Aku Berhasil CI
 }
