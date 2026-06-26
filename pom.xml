@@ -5,18 +5,10 @@
     <!-- Informasi Proyek -->
     <groupId>tubesfreelance2</groupId>
     <artifactId>tubesfreelance2</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <packaging>jar</packaging>
 
     <!-- Properti build untuk konfigurasi sumber dan versi compiler -->
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.release>23</maven.compiler.release>
-        <exec.mainClass>com.mycompany.tubesfreelance.TubesFreelance</exec.mainClass>
-        <!-- Tambahan Properti SonarCloud -->
-        <sonar.organization>SIMPLIX07</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    </properties>
     
     <dependencies>
         <dependency>
